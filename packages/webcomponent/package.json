@@ -32,11 +32,11 @@
   },
   "dependencies": {
     "@thewalletai/embed-preact": "*",
-    "preact": "^10.0.0",
+    "preact": "^10.24.2",
     "preact-custom-element": "^4.3.0"
   },
   "peerDependencies": {
-    "preact": "^10.0.0"
+    "preact": "^10.24.2"
   },
   "devDependencies": {
     "@thewalletai/embed": "*",
